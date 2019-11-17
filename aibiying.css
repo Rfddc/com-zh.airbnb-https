@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    height: 80px;
+    width: 100%;
+    background-color: #ffffff;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.box-left {
+    float: left;
+}
+
+.tubiao {
+    float: left;
+    width: 80px;
+    width: 16px;
+    margin: 25px 25px;
+}
+
+.shurukuang {
+    padding: 4px;
+    float: left;
+    padding-left: 9px;
+    height: 80px;
+}
+
+
+
+
+.box-right {
+    float: right;
+
+}
+
+.box-right li {
+    font-size: 12px;
+    float: left;
+    line-height: 40px;
+    margin: 20px 25px;
+    list-style: none;
+
+}
+
+.box-right a {
+    color: #484848;
+    text-decoration: none;
+}
+
+.diyige {
+    text-align: center;
+    width: 109px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.diyige:hover {
+    border-bottom: 2px solid black;
+}
+
+.dierge {
+    text-align: center;
+    width: 42px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.dierge:hover {
+    border-bottom: 2px solid black;
+}
+
+.disange {
+    text-align: center;
+    width: 48px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.disange:hover {
+    border-bottom: 2px solid black;
+}
+
+.disige {
+    text-align: center;
+    width: 56px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.disige:hover {
+    border-bottom: 2px solid black;
+}
+
+.diwuge {
+    text-align: center;
+    width: 56px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.diwuge:hover {
+    border-bottom: 2px solid black;
+}
+
+.diliuge {
+    text-align: center;
+    width: 29px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.diliuge:hover {
+    border-bottom: 2px solid black;
+}
+
+.diqige {
+    text-align: center;
+    width: 56px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.diqige:hover {
+    border-bottom: 2px solid black;
+}
+
+.dibage {
+    text-align: center;
+    width: 29px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.dibage:hover {
+    border-bottom: 2px solid black;
+}
+
+.dijiuge {
+    text-align: center;
+    width: 29px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.dijiuge:hover {
+    border-bottom: 2px solid black;
+}
+
+.dishige {
+    text-align: center;
+    width: 29px;
+    height: 60px;
+    font-weight: bold;
+    margin: 0 -18px;
+}
+
+.dishige:hover {
+    border-bottom: 2px solid black;
+}
