@@ -1,0 +1,597 @@
+.airbnb {
+    position: relative;
+    width: 100%;
+    height: 662px;
+    background-image: url(../imges/元旦背景.jpg);
+    background-size: cover;
+}
+
+.airbnb-dingbu {
+    width: 1900px;
+    height: 237px;
+}
+
+.airbnb-logo {
+    float: left;
+    width: 42px;
+    margin-top: 21px;
+
+    display: inline-flex;
+
+    margin-left: 25px;
+
+}
+
+
+.airbnb-logo img {
+    float: left;
+    height: 60px;
+
+}
+
+
+.airbnb-logo-shoushuokuang {
+    width: 1159px;
+    height: 73px;
+    float: left;
+    margin-top: 14px;
+}
+
+.airbnb-logo-shoushuokuang button {
+    float: left;
+    width: 61px;
+    height: 48px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 6px 0 0 6px;
+    margin-left: 18px;
+}
+
+.airbnb-logo-shoushuokuang input {
+    float: left;
+    height: 48px;
+    width: 397px;
+    border: none;
+    border-radius: 0 6px 6px 0px;
+}
+
+.airbnb-title-search-right {
+    float: right;
+    width: 640px;
+}
+
+.airbnb-title-search-right li {
+    float: left;
+}
+
+.airbnb-title-search-right a {
+    font-size: 9px;
+    color: #ffffff;
+    font-weight: 700;
+    margin-left: 2px;
+}
+
+
+.title-jtzw {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    width: 110px;
+    line-height: 80px;
+}
+
+.title-jtzw:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+.title-rmb {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 56px;
+}
+
+.title-rmb:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+.title-sjd {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 48px;
+}
+
+.title-sjd:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+
+.title-czfy {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 62px;
+}
+
+.title-czfy:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+
+.title-kzty {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 62px;
+}
+
+.title-kzty:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+
+.title-gs {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 33px;
+}
+
+.title-gs:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+
+
+.title-bz {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 33px;
+}
+
+.title-bz:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+
+.title-zc {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 33px;
+}
+
+.title-zc:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+
+.title-dl {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 32px;
+}
+
+.title-dl:hover {
+    border-bottom: 2px solid #ffffff;
+}
+
+.aribnb-tianfu {
+    height: 280px;
+}
+
+.aribnb-tianfu-left {
+    float: left;
+    display: inline-block;
+    line-height: 300px;
+}
+
+.aribnb-tianfu-left a {
+    color: #ffffff;
+    margin-left: 30px;
+    font-weight: 700;
+}
+
+.aribnb-tianfu-right {
+    float: right;
+    display: inline-block;
+    line-height: 300px;
+
+}
+
+.aribnb-tianfu-right a {
+    color: #ffffff;
+    margin-right: 30px;
+    font-weight: 700;
+}
+
+.airbnb-tianfuzhiguo {
+    display: inline-block;
+    margin-left: 395px;
+    height: 140px;
+    width: 259px;
+    margin-top: 78px;
+}
+
+.airbnb-tianfuzhiguo a {
+    font-size: 32px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+
+.airbnb-beijingbanxin {
+    width: 1080px;
+}
+
+.airbnb-search-youzhifangyuan {
+    height: 48px;
+    width: 184px;
+    background-color: #ff5a5f;
+    border-radius: 6px;
+    margin-top: 41px;
+    text-align: center;
+}
+
+.airbnb-search-youzhifangyuan:hover {
+    /* transition: all 1s; */
+    border: 3px solid #ffffff;
+
+}
+
+
+.airbnb-search-youzhifangyuan-cakan a {
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 48px;
+}
+
+.airbnb-lunbotu {
+    position: absolute;
+    top: 526px;
+    left: 438px;
+    height: 14px;
+    width: 331px;
+}
+
+.airbnb-lunbotu li {
+
+    width: 27px;
+    height: 4px;
+    color: #8b6b55;
+}
+
+.airbnb-lunbotu-l {
+    float: left;
+    width: 22px;
+    height: 2px;
+    /* color: black; */
+    background-color: #95756a;
+    margin-left: 4px;
+    border-radius: 6px;
+}
+
+.airbnb-lunbotu-l:hover {
+    background-color: #ffffff;
+}
+
+.housing-bigbox {
+    display: block;
+    width: 1030px;
+    height: 72px;
+    border-radius: 6px;
+    background-color: #ffffff;
+    margin-left: 440px;
+    margin-top: 107px;
+
+}
+
+.housing-menu {
+    position: relative;
+    float: left;
+    height: 70px;
+    width: 100px;
+    border: none;
+    border-right: 1px solid #ebebeb;
+    font-size: 18px;
+
+    line-height: 72px;
+}
+
+.housing-menu a {
+    margin-left: 22px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.housing-input {
+    position: relative;
+    float: left;
+    width: 563px;
+    height: 72px;
+    border: none;
+    border-right: 1px solid #ebebeb;
+}
+
+.housing-input input {
+    float: left;
+    width: 475px;
+    height: 72px;
+    font-size: 18px;
+    font-weight: 900;
+    color: #646464;
+    border: none;
+    margin-left: 48px;
+
+}
+
+
+
+
+.housing-Tostayin {
+    float: left;
+    width: 268px;
+    border: none;
+    border-right: 1px solid #ebebeb;
+    height: 72px;
+    position: relative;
+
+    line-height: 72px;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.housing-Tostayin a {
+    color: #7d7d7d;
+    margin-left: 44px;
+}
+
+
+.housing-search {
+    float: left;
+    width: 96px;
+    line-height: 72px;
+}
+
+.housing-Outside {
+    width: 85px;
+}
+
+.housing-Outside button {
+    border: none;
+    color: #ffffff;
+    background-color: #ff5a5f;
+    width: 68px;
+    height: 48px;
+    border-radius: 4px;
+    font-size: 18px;
+    margin-left: 16px;
+}
+
+.preferential {
+    height: 130px;
+}
+
+.preferential-housing {
+    height: 29px;
+}
+
+.preferential-housing h1 {
+    font-size: 24px;
+    margin-top: 46px;
+}
+
+.preferential-Sevenfold {
+    margin-top: 4px;
+}
+
+.preferential-Sevenfold span {
+    font-size: 16px;
+    color: #484848;
+}
+
+.Shanghai-nanjing {
+    height: 90px;
+
+}
+
+.Shanghai-nanjing-lianjie-bigbox {
+    width: 1048px;
+    height: 80px;
+}
+
+.Shanghai-nanjing-lianjie {
+    float: left;
+    width: 120px;
+    height: 48px;
+    border: solid 0.5px #D8D8D8;
+    border-radius: 3px;
+    background: #ffffff;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.15);
+    font-size: 17px;
+    color: #484848;
+    font-weight: bold;
+    line-height: 48px;
+    transition: box-shadow 0.5s;
+    text-align: center;
+    margin-right: 23px;
+}
+
+.Shanghai-nanjing-lianjie:hover {
+    box-shadow: 1px 4px 5px rgba(0, 0, 0, 0.15);
+}
+
+.Shanghai-nanjing-lianjie-aa {
+    float: left;
+    width: 120px;
+    height: 48px;
+    border: solid 0.5px #D8D8D8;
+    border-radius: 3px;
+    background: #00848a;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-shadow: -2px 11px 14px #e7f4f4;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 48px;
+    transition: box-shadow 0.5s;
+    text-align: center;
+    margin-right: 16px;
+}
+
+.Shanghai-nanjing-lianjie-aa a {
+    color: #ffffff;
+}
+
+.shanghai-nanjing-button {
+    position: relative;
+    width: 30px;
+    height: 30px;
+}
+
+.shanghai-nanjing-button button {
+    width: 28px;
+    position: absolute;
+    top: -71px;
+    left: 1000px;
+    height: 28px;
+    border-radius: 50%;
+    line-height: 28px;
+    text-align: center;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.15);
+}
+
+.shanghai-nanjing-button svg {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+}
+
+.Superhost {
+    height: 760px;
+
+}
+
+
+.Quality-listings {
+    height: 349px;
+    width: 333px;
+    float: left;
+    margin-right: 14px;
+}
+
+
+.Quality-listings-image img {
+    width: 333.33px;
+    height: 222.22px;
+
+}
+
+.Quality-listings-ztgy {
+    height: 17px;
+    margin-top: 8px;
+}
+
+.Quality-listings-ztgy a {
+    font-size: 15px;
+    color: #734f21;
+    font-weight: 600;
+}
+
+.Quality-listings-xhljl {
+    margin-top: 4px;
+}
+
+.Quality-listings-xhljl a {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.Quality-listings-zan img {
+    height: 12px;
+}
+
+
+.Quality-listings-je {
+    margin-top: 8px;
+}
+
+
+.Quality-listings-je i {
+    font-size: 14px;
+    color: #484848;
+}
+
+.Quality-listings-je s {
+    font-size: 14px;
+}
+
+.Quality-listings-je span {
+    margin-top: 12px;
+    font-size: 18px;
+}
+
+.Quality-listings-zan {
+
+    position: absolute;
+    width: 50px;
+    height: 9px;
+    display: inline-block;
+    float: left;
+    background-size: auto 9px;
+    background-image: url(../imges/赞赞赞.png);
+    background-repeat: none-repeat;
+    top: 0;
+    left: 0;
+}
+
+.Quality-listings-chaozhan {
+    position: absolute;
+    top: -2px;
+    left: 52px;
+}
+
+.Quality-listings-Zan {
+    height: 15px;
+    margin-top: 10px;
+    position: relative;
+
+}
+
+
+.More-advantages {
+    height: 80px;
+}
+
+.More-advantages span {
+    font-size: 18px;
+    color: #008489;
+    font-weight: 600;
+}
+
+
+.destination {
+    height: 42px;
+
+}
+
+.destination-mdd span {
+    font-size: 24px;
+    font-weight: bold;
+    color: #484848;
+}
