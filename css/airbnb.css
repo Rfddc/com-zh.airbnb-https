@@ -6,6 +6,12 @@
     background-size: cover;
 }
 
+
+
+a {
+    text-decoration: none;
+}
+
 .airbnb-dingbu {
     width: 1900px;
     height: 237px;
@@ -182,6 +188,9 @@
     line-height: 80px;
     width: 32px;
 }
+
+
+
 
 .title-dl:hover {
     border-bottom: 2px solid #ffffff;
@@ -594,4 +603,56 @@
     font-size: 24px;
     font-weight: bold;
     color: #484848;
+}
+
+.travel-plan {
+    height: 340px;
+}
+
+.Travel-protection {
+    height: 37px;
+
+}
+
+.Travel-protection span {
+    font-size: 29px;
+    font-weight: 600;
+}
+
+.travel-plan-bigbox {
+    height: 74px;
+    width: 1060px;
+    margin-top: 30px;
+}
+
+.travel-plan-three,
+.travel-plan-two,
+.travel-plan-one {
+    width: 353px;
+    float: left;
+}
+
+
+.travel-plan-three img,
+.travel-plan-two img,
+.travel-plan-one img {
+    float: left;
+}
+
+.travel-plan-three span,
+.travel-plan-two span,
+.travel-plan-one span {
+    width: 236px;
+    float: left;
+    height: 74px;
+    line-height: 25px;
+    margin-left: 9px;
+}
+
+
+.travel-plan-three a,
+.travel-plan-two a,
+.travel-plan-one a {
+    font-size: 15px;
+    font-weight: 700;
 }
