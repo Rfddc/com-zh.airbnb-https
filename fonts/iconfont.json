@@ -13,6 +13,20 @@
       "unicode_decimal": 58900
     },
     {
+      "icon_id": "1546598",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "1613594",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
       "icon_id": "2678587",
       "name": "地球",
       "font_class": "diqiu",
