@@ -18,6 +18,27 @@
       "font_class": "diqiu",
       "unicode": "e642",
       "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "3005369",
+      "name": "服务号-导航-下拉 (1)",
+      "font_class": "fuwuhao-daohang-xiala",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "4598257",
+      "name": "大于号",
+      "font_class": "dayuhao",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "4598262",
+      "name": "小于号",
+      "font_class": "xiaoyuhao",
+      "unicode": "e628",
+      "unicode_decimal": 58920
     }
   ]
 }
