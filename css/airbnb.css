@@ -105,8 +105,17 @@ a {
     width: 48px;
 }
 
-.title-sjd:hover {
+.title-sjd img {
+    position: absolute;
+    top: 80px;
+    left: 873px;
+    display: none;
+}
+
+
+.title-sjd:hover img {
     border-bottom: 2px solid #ffffff;
+    display: block;
 }
 
 
