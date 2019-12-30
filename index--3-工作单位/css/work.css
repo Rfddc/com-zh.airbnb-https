@@ -1,1 +1,168 @@
-/* No CSS *//*# sourceMappingURL=work.css.map */
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: Cereal, sans-serif;
+}
+
+.container {
+  position: relative;
+  margin: 0 auto;
+  width: 1440px;
+}
+
+header {
+  width: 1048px;
+  margin: 0 auto;
+  padding-right: 200px;
+  padding-left: 200px;
+  height: 76px;
+  line-height: 76px;
+}
+
+.logo-left {
+  float: left;
+  height: 76px;
+  line-height: 76px;
+}
+
+.logo-left a {
+  font-size: 18px;
+  color: #484848;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.logo-left img {
+  position: absolute;
+  border-style: none;
+  top: 22px;
+  left: 286px;
+}
+
+.logo-left span {
+  font-size: 17px;
+  margin-left: 24px;
+}
+
+.logo-right {
+  float: right;
+  height: 76px;
+  line-height: 76px;
+}
+
+.logo-right ul {
+  list-style: none;
+  width: 508px;
+  height: 76px;
+  line-height: 76px;
+  margin: 0;
+  padding: 0;
+}
+
+.logo-right ul li {
+  float: left;
+  width: 75px;
+  text-align: center;
+  margin-left: 64px;
+}
+
+.logo-right ul li a {
+  text-decoration: none;
+  color: #484848;
+  font-size: 17px;
+}
+
+#hy {
+  width: 52px;
+  height: 76px;
+  text-align: center;
+  border-bottom: 2px solid black;
+  margin: 0;
+  font-weight: 600;
+}
+
+#zw {
+  font-weight: 500;
+}
+
+.ckzw {
+  height: 543px;
+  padding-right: 200px;
+  padding-left: 200px;
+  position: relative;
+}
+
+.hskj {
+  position: absolute;
+  top: 30%;
+  bottom: -32px;
+  left: 97px;
+  background-color: #f2f2f2;
+  height: 446px;
+  width: 1275px;
+}
+
+.hskj-t {
+  position: absolute;
+  top: 37px;
+  right: 116px;
+}
+
+.hskj-t img {
+  height: 536px;
+  width: 56vw;
+}
+
+.hskj-zw {
+  position: absolute;
+  top: 21%;
+  width: 363px;
+  height: 270px;
+  padding: 56px 64px 56px 88px;
+  background-color: #fff;
+  left: 288px;
+}
+
+.hskj-zw h1 {
+  font-size: 47px;
+  margin-bottom: 79px;
+  color: #484848;
+}
+
+.hskj-zw h5 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+.hskj-zw h5 span {
+  font-weight: 600;
+  color: #484848;
+}
+
+.hskj-zw a {
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: 600;
+  background-color: #008489;
+  color: #ffffff;
+  padding: 12px 30px;
+  margin-top: 54px;
+}
+
+.sm {
+  height: 297px;
+  margin: 0 auto;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.sm-s {
+  width: 609px;
+  margin-left: 263px;
+  margin-top: 119px;
+}
+/*# sourceMappingURL=work.css.map */
