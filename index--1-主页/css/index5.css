@@ -193,7 +193,338 @@ a {
 
 main {
   width: 1575px;
-  height: 3960px;
+  height: 5957px;
+  margin: 0 93.5px;
+}
+
+main .beijing {
+  position: relative;
+  width: 1267px;
+  height: 565px;
+  background-image: url("/imges/备一.jpg");
+}
+
+main .beijing-a {
+  width: 1365px;
+  height: 565px;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 15;
+  position: absolute;
+  top: 82px;
+  left: -1px;
+}
+
+main .beijing-a .beijingnei {
+  width: 527px;
+  height: 194px;
+  position: absolute;
+  top: 326px;
+  left: 202px;
+}
+
+main .beijing-a .beijingnei h2 {
+  margin-bottom: 15px;
+}
+
+main .beijing-a .beijingnei h2 strong {
+  font-size: 44px;
+  color: #ffffff;
+  line-height: 1.27;
+  letter-spacing: -0.9px;
+}
+
+main .beijing-a .beijingnei p {
+  font-size: 22px;
+  color: #ffffff;
+}
+
+main .hexin {
+  width: 1080px;
+  height: 2547px;
+  margin: 0 93.5px;
+  padding: 0 24px;
+}
+
+main .hexin .brian {
+  text-align: center;
+  width: 1056px;
+  height: 252px;
+  margin: 0 -12px;
+  border-bottom: 1px solid #dce0e0;
+}
+
+main .hexin .brian .brian-aa {
+  width: 615px;
+  height: 252px;
+}
+
+main .hexin .brian .brian-aa .brian-a {
+  width: 591px;
+  height: 104px;
+  font-size: 18px;
+  margin-left: 217px;
+  margin-top: 85px;
+}
+
+main .hexin .brian .brian-aa .brian-aaaa {
+  padding-left: 203px;
+}
+
+main .hexin .brian .brian-aa .brian-aaaa .brian-aaa {
+  width: 64px;
+  height: 64px;
+  padding-left: 266px;
+  margin-top: 16px;
+  margin-bottom: 21px;
+}
+
+main .hexin .brian .brian-aa .brian-aaaa .brian-aaa img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+
+main .hexin .brian .brian-aa .brian-aaaa .brian-aaa-a {
+  height: 18px;
+  width: 591px;
+}
+
+main .hexin .brian .brian-aa .brian-aaaa .brian-aaa-b {
+  height: 18px;
+  width: 591px;
+}
+
+main .hexin .lizu {
+  width: 1032px;
+  height: 331px;
+  border-bottom: 1px solid #dce0e0;
+  padding-top: 45px;
+}
+
+main .hexin .lizu .lizu-a {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+main .hexin .lizu .lizu-b {
+  width: 1032px;
+  height: 44px;
+  font-size: 16px;
+  padding: 11px 0;
+  line-height: 1.4em;
+}
+
+main .hexin .yinling {
+  width: 1056px;
+  height: 268px;
+}
+
+main .hexin .yinling .yinling-aa {
+  width: 591px;
+  height: 162px;
+  padding-top: 4px;
+}
+
+main .hexin .yinling .yinling-aa .yinling-a {
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 85px;
+  margin-bottom: 10px;
+}
+
+main .hexin .yinling .yinling-aa .yinling-b {
+  font-size: 16px;
+  line-height: 1.3em;
+}
+
+main .hexin .haoke {
+  width: 1056px;
+  height: 702px;
+}
+
+main .hexin .haoke .haoke-aa {
+  float: left;
+  width: 504px;
+  height: 320px;
+  margin-bottom: 36px;
+  padding: 0 12px;
+}
+
+main .hexin .haoke .haoke-aa img {
+  width: 504px;
+  height: 200px;
+  margin: 0 0 12px;
+}
+
+main .hexin .haoke .haoke-aa p {
+  font-size: 16px;
+  margin: 0 0 8px;
+}
+
+main .hexin .haoke .haoke-aa p strong {
+  width: 1056px;
+  height: 208px;
+  border-top: 1px solid #dce0e0;
+  padding: 32px 0;
+  padding-top: 80px;
+}
+
+main .hexin .haoke .haoke-aa p:hover {
+  color: #0084a8;
+}
+
+main .hexin .gongju {
+  width: 1056px;
+  height: 208px;
+  border-top: 1px solid #dce0e0;
+}
+
+main .hexin .gongju .gongju-a {
+  font-size: 32px;
+  width: 591px;
+  height: 84px;
+  font-weight: bold;
+  padding: 3px 0;
+  padding-top: 80px;
+}
+
+main .hexin .gongju .gongju-b {
+  width: 591px;
+  height: 44px;
+  font-size: 16px;
+  line-height: 1.3em;
+}
+
+main .hexin .guis {
+  margin-top: 54px;
+  width: 1056px;
+  height: 471px;
+}
+
+main .hexin .guis .guis-aa {
+  width: 615px;
+  height: 417px;
+}
+
+main .hexin .guis .guis-aa p {
+  font-size: 16px;
+  font-size: 1.2em;
+  font-weight: 300;
+  line-height: 1.27;
+  letter-spacing: -0.2px;
+  margin: 0 0 15px;
+}
+
+main .hexin .guis .guis-aa p strong {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.more-men {
+  width: 1571px;
+  height: 500px;
+}
+
+.zhic {
+  width: 1056px;
+  height: 230px;
+  margin-top: 70px;
+  margin-left: 300px;
+}
+
+.zhic .zhic-a {
+  width: 591px;
+  height: 84px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.zhic .zhic-b {
+  font-size: 16px;
+  width: 591px;
+  height: 66px;
+}
+
+.zhiy {
+  width: 1100px;
+  height: 972px;
+}
+
+.zhiy .zhiy-a {
+  margin: 12px;
+  float: left;
+  width: 425px;
+  height: 200px;
+  border: 1px solid #dbdbdb;
+  padding: 32px 48px 48px 48px;
+}
+
+.zhiy .zhiy-a .zhiy-aa {
+  width: 430px;
+  height: 58px;
+  padding: 30px 0;
+}
+
+.zhiy .zhiy-a .zhiy-aa-a {
+  width: 430px;
+  height: 109px;
+}
+
+.zhiy .zhiy-a .zhiy-aa-a p {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.zhiy .zhiy-a:hover {
+  border: 1px solid #008489;
+  -webkit-transition: all 2s;
+  transition: all 2s;
+}
+
+.wan-aaaa {
+  width: 1600px;
+  height: 500px;
+}
+
+.wan-aaaa img {
+  width: 100%;
+  height: 100%;
+}
+
+.huanj {
+  padding: 70px 0;
+  width: 1056px;
+  height: 199px;
+}
+
+.huanj .huanj-a {
+  font-size: 32px;
+  font-weight: bold;
+  width: 591px;
+  height: 84px;
+}
+
+.huanj .huanj-aa {
+  font-size: 16px;
+  width: 591px;
+  height: 110px;
+}
+
+.baor {
+  width: 207px;
+  height: 45px;
+}
+
+.baor a {
+  font-weight: bold;
+  font-size: 16px;
+  color: #ffffff;
+  border-radius: 5px;
+  width: 207px;
+  height: 45px;
+  background-color: #008489;
+  padding: 15px 22px;
 }
 
 .Checklist-all-no dt {
