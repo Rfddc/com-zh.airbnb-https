@@ -529,4 +529,193 @@ header {
   height: 1335px;
   overflow: scroll;
 }
+
+.Jh .hr .hr-b .hr-bba h6 {
+  margin-left: 40px;
+  color: #767676;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.Jh .hr .hr-b .hr-bba ul li {
+  list-style: none;
+}
+
+.Jh .hr .hr-b .hr-bba ul li h3 {
+  font-size: 24px;
+  line-height: 1.25;
+}
+
+.Jh .hr .hr-b .hr-bba ul li span {
+  font-size: 18px;
+  line-height: 1.66667;
+}
+
+.hs {
+  height: 196px;
+  width: 1440;
+  background-color: #f2f2f2;
+  margin-top: 64px;
+  padding: 64px;
+  text-align: center;
+}
+
+.hs .hs-a {
+  margin: 24px auto;
+}
+
+.hs .hs-a svg {
+  max-width: 50px;
+}
+
+.hs h3 {
+  font-size: 24px;
+  line-height: 1.25;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.hs p a {
+  text-decoration: none;
+  color: #008489;
+  font-size: 18px;
+}
+
+.last-part {
+  height: 108px;
+  padding-left: 552px;
+  padding-top: 48px;
+}
+
+.last-part-one svg {
+  float: left;
+  margin-right: 10px;
+  margin-top: 12px;
+}
+
+.last-part-one {
+  line-height: 21px;
+  margin-top: 15px;
+  width: 760px;
+}
+
+.last-part-one a {
+  color: #767676;
+  font-weight: 600;
+}
+
+.last-part-one a:hover {
+  text-decoration: underline;
+}
+
+.last-part-one p {
+  color: #767676;
+  font-weight: 500;
+}
+
+.jianbian {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+}
+
+.jian-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), to(#000000));
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+}
+
+.Checklist-all {
+  height: 280px;
+  padding-left: 140px;
+}
+
+.Checklist-all .Checklist-a {
+  float: left;
+  width: 260px;
+  height: 101px;
+}
+
+.Checklist-all .Checklist-a dl dt {
+  margin-bottom: 16px;
+}
+
+.Checklist-all .Checklist-a dl dd {
+  margin-left: 0;
+}
+
+.Checklist-all .Checklist-a dl dd a {
+  color: #484848;
+  text-decoration: none;
+}
+
+.Checklist-all .Checklist-b {
+  float: left;
+  width: 260px;
+  height: 167px;
+}
+
+.Checklist-all .Checklist-b dl dt {
+  margin-bottom: 16px;
+}
+
+.Checklist-all .Checklist-b dl dd {
+  margin-left: 0;
+}
+
+.Checklist-all .Checklist-b dl dd a {
+  color: #848484;
+  text-decoration: none;
+}
+
+.Checklist-all .Checklist-c {
+  width: 260px;
+  height: 165px;
+  float: left;
+}
+
+.Checklist-all .Checklist-c dl dt {
+  margin-bottom: 16px;
+}
+
+.Checklist-all .Checklist-c dl dd {
+  margin-left: 0;
+}
+
+.Checklist-all .Checklist-c dl dd a {
+  color: #848484;
+  text-decoration: none;
+}
+
+.Checklist-all .Checklist-d {
+  width: 260px;
+  height: 95px;
+  float: left;
+}
+
+.Checklist-all .Checklist-d dl dt {
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+
+.Checklist-all .Checklist-d dl dd {
+  margin-left: 0;
+}
+
+.Checklist-all .Checklist-d dl dd a {
+  color: #848484;
+}
+
+.Checklist-p {
+  margin-top: 50px;
+  width: 1440px;
+  height: 253px;
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb;
+  padding-left: 365px;
+  padding-top: 48px;
+}
 /*# sourceMappingURL=work.css.map */

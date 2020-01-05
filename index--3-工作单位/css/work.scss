@@ -535,7 +535,195 @@ header {
       width: 511px;
       height: 1335px;
       overflow: scroll;
+
+      .hr-bba {
+        h6 {
+          margin-left: 40px;
+          color: #767676;
+          font-size: 12px;
+          font-weight: 600;
+          line-height: 1.5;
+        }
+
+        ul {
+          li {
+            list-style: none;
+
+            h3 {
+              font-size: 24px;
+              line-height: 1.25;
+            }
+
+            span {
+              font-size: 18px;
+              line-height: 1.66667;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.hs {
+  height: 196px;
+  width: 1440;
+  background-color: #f2f2f2;
+  margin-top: 64px;
+  padding: 64px;
+  text-align: center;
+
+  .hs-a {
+    margin: 24px auto;
+
+    svg {
+      max-width: 50px;
     }
   }
 
+  h3 {
+    font-size: 24px;
+    line-height: 1.25;
+    -webkit-font-smoothing: antialiased;
+
+    text-rendering: optimizeLegibility;
+  }
+
+  p {
+    a {
+      text-decoration: none;
+      color: #008489;
+      font-size: 18px;
+    }
+  }
+}
+
+.last-part {
+  height: 108px;
+  padding-left: 552px;
+  padding-top: 48px;
+}
+
+.last-part-one svg {
+  float: left;
+  margin-right: 10px;
+  margin-top: 12px;
+}
+
+.last-part-one {
+  line-height: 21px;
+  margin-top: 15px;
+  width: 760px;
+}
+
+.last-part-one a {
+  color: #767676;
+  font-weight: 600;
+}
+
+.last-part-one a:hover {
+  text-decoration: underline;
+}
+
+.last-part-one p {
+  color: #767676;
+  font-weight: 500;
+}
+
+.jianbian {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+}
+
+.jian-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+}
+
+.Checklist-all {
+  height: 280px;
+  padding-left: 140px;
+
+ 
+  .Checklist-a {
+    // background-color: rebeccapurple;
+    float: left;
+    width: 260px;
+    height: 101px;
+    dl {
+      dt {
+        margin-bottom: 16px;
+      }
+      dd {
+        margin-left: 0;
+        a {
+          color: #484848;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+  .Checklist-b {
+    float: left;
+    width: 260px;
+    height: 167px;
+    dl {
+      dt {
+        margin-bottom: 16px;
+      }
+      dd {
+        margin-left: 0;
+        a {
+          color: #848484;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+  .Checklist-c {
+    width: 260px;
+    height: 165px;
+    float: left;
+    dl {
+      dt {
+        margin-bottom: 16px;
+      }
+      dd {
+        margin-left: 0;
+        a {
+          color: #848484;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+  .Checklist-d {
+    width: 260px;
+    height: 95px;
+    float: left;
+    dl {
+      dt {
+        margin-bottom: 16px;
+        text-decoration: none;
+      }
+      dd {
+        margin-left: 0;
+        a {
+          color: #848484;
+        }
+      }
+    }
+  }
+}
+.Checklist-p {
+  margin-top: 50px;
+  width: 1440px;
+  height: 253px;
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb;
+  padding-left: 365px;
+  padding-top: 48px;
 }
