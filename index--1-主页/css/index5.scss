@@ -199,54 +199,61 @@ a {
     border-bottom: 2px solid #767676;
 }
 
-main {
-    width: 1575px;
-    height: 5957px;
-    margin: 0 93.5px;
+.beijing {
+    position: relative;
+    width: 1915px;
+    height: 565px;
+    background-image: url(/imges/备一.jpg);
+    /* background-size: cover; */
+    background-repeat: none-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
 
-    .beijing {
-        position: relative;
-        width: 1267px;
-        height: 565px;
-        background-image: url('/imges/备一.jpg');
+}
 
+.beijing-a {
+    width: 1889px;
+    height: 565px;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 15;
+    position: absolute;
+    top: 82px;
+    left: 26px;
 
-    }
-
-    .beijing-a {
-        width: 1365px;
-        height: 565px;
-        background-color: rgba(0, 0, 0, 0.3);
-        z-index: 15;
+    .beijingnei {
+        width: 527px;
+        height: 194px;
         position: absolute;
-        top: 82px;
-        left: -1px;
+        top: 325px;
+        left: 323px;
 
-        .beijingnei {
-            width: 527px;
-            height: 194px;
-            position: absolute;
-            top: 326px;
-            left: 202px;
+        h2 {
+            margin-bottom: 15px;
 
-            h2 {
-                margin-bottom: 15px;
-
-                strong {
-                    font-size: 44px;
-                    color: #ffffff;
-                    line-height: 1.27;
-                    letter-spacing: -0.9px;
-                }
-            }
-
-            p {
-                font-size: 22px;
+            strong {
+                font-size: 44px;
                 color: #ffffff;
+                line-height: 1.27;
+                letter-spacing: -0.9px;
             }
         }
 
+        p {
+            font-size: 22px;
+            color: #ffffff;
+        }
     }
+
+}
+
+
+
+
+main {
+    width: 1575px;
+    height: 2282px;
+    margin-left: 331px;
+
 
 
 
@@ -450,15 +457,18 @@ main {
 
 
 .more-men {
-    width: 1571px;
+    width: 1915px;
     height: 500px;
+    background-image: url(../imges/moremen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .zhic {
     width: 1056px;
     height: 230px;
     margin-top: 70px;
-    margin-left: 300px;
+    margin-left: 419px;
 
     .zhic-a {
         width: 591px;
@@ -480,6 +490,7 @@ main {
 .zhiy {
     width: 1100px;
     height: 972px;
+    margin-left: 407px;
 
     .zhiy-a {
         margin: 12px;
@@ -515,17 +526,20 @@ main {
 }
 
 .wan-aaaa {
-    width: 1600px;
+    width: 1900px;
     height: 500px;
+    background-image: url("../imges/wan1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 
     img {
-        width: 100%;
+        width: 1267px;
         height: 100%;
     }
 }
 
 .huanj {
-    padding: 70px 0;
+    padding: 70px 422px;
     width: 1056px;
 
     height: 199px;
@@ -548,7 +562,7 @@ main {
 .baor {
     width: 207px;
     height: 45px;
-
+    margin-left: 420px;
 
     a {
         font-weight: bold;
