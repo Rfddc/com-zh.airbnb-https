@@ -1,0 +1,667 @@
+a {
+    text-decoration: none;
+}
+
+.airbnb-dingbu {
+    width: 1900px;
+    height: 82px;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.airbnb-logo {
+    float: left;
+    width: 42px;
+    margin-top: 21px;
+    display: inline-flex;
+    margin-left: 25px;
+
+}
+
+
+.airbnb-logo img {
+    float: left;
+    height: 60px;
+}
+
+
+.airbnb-logo-shoushuokuang {
+    width: 460px;
+    height: 48px;
+    float: left;
+    margin-top: 14px;
+    border: 1px solid #ebebeb;
+    margin-left: 13px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px;
+}
+
+.airbnb-logo-shoushuokuang:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px;
+    transition: all 1s;
+}
+
+.airbnb-logo-shoushuokuang button {
+    float: left;
+    width: 61px;
+    height: 48px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 6px 0 0 6px;
+
+}
+
+.airbnb-logo-shoushuokuang input {
+    float: left;
+    height: 48px;
+    width: 397px;
+    border: none;
+    border-radius: 0 6px 6px 0px;
+}
+
+.airbnb-title-search-right {
+    float: right;
+    width: 640px;
+}
+
+.airbnb-title-search-right li {
+    float: left;
+}
+
+.airbnb-title-search-right a {
+    font-size: 9px;
+
+    font-weight: 700;
+    margin-left: 2px;
+}
+
+
+.title-jtzw {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    width: 110px;
+    line-height: 80px;
+}
+
+.title-jtzw:hover {
+    border-bottom: 2px solid #767676;
+}
+
+.title-rmb {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 56px;
+}
+
+.title-rmb:hover {
+    border-bottom: 2px solid #767676;
+}
+
+.title-sjd {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 48px;
+}
+
+.title-sjd img {
+    position: absolute;
+    top: 80px;
+    left: 873px;
+    display: none;
+}
+
+
+.title-sjd:hover img {
+    border-bottom: 2px solid #767676;
+    display: block;
+}
+
+
+.title-czfy {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 62px;
+}
+
+.title-czfy:hover {
+    border-bottom: 2px solid #767676;
+}
+
+
+.title-kzty {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 62px;
+}
+
+.title-kzty:hover {
+    border-bottom: 2px solid #767676;
+}
+
+
+.title-gs {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 33px;
+}
+
+.title-gs:hover {
+    border-bottom: 2px solid #767676;
+}
+
+
+
+.title-bz {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 33px;
+}
+
+.title-bz:hover {
+    border-bottom: 2px solid #767676;
+}
+
+
+.title-zc {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 33px;
+}
+
+.title-zc:hover {
+    border-bottom: 2px solid #767676;
+}
+
+
+.title-dl {
+    float: left;
+    margin-right: 19px;
+    height: 80px;
+    line-height: 80px;
+    width: 32px;
+}
+
+.title-dl:hover {
+    border-bottom: 2px solid #767676;
+}
+
+main {
+    width: 1575px;
+    height: 3960px;
+
+    .shenti {
+        width: 1056px;
+        margin-left: 423px;
+
+        .xinren {
+            color: #008489;
+            font-size: 18px;
+            padding-top: 80px;
+            font-weight: 500;
+            font-family: Circular, "PingFang-SC", "Hiragino Sans GB", "微软雅黑", "Microsoft YaHei", "Heiti SC" !important;
+        }
+
+        .ninde {
+            width: 707px;
+            height: 68px;
+            padding-top: 12px !important;
+            padding-bottom: 60px;
+
+            h1 {
+                font-weight: 800;
+                font-size: 44px;
+                padding: 12px 0 60px;
+            }
+        }
+
+        .gailan {
+            width: 1056px;
+            height: 73px;
+            line-height: 73px;
+
+            ul {
+                width: 1056px;
+                height: 73px;
+                border-bottom: 1px solid #ebebeb;
+
+                li {
+                    float: left;
+                    margin: 0 24px 0 0;
+                    font-size: 16px;
+                    font-weight: 600;
+                }
+
+                .gailan-a {
+                    width: 32px;
+                    height: 72px;
+                    border-bottom: 2px solid #008489;
+                }
+
+                .gailan-b {
+                    width: 32px;
+                    height: 72px;
+                }
+
+                .gailan-c {
+                    width: 103px;
+                    height: 72px;
+                }
+
+                .gailan-d {
+                    width: 64px;
+                    height: 72px;
+                }
+
+                .gailan-e {
+                    width: 64px;
+                    height: 72px;
+                }
+            }
+        }
+
+        .meiwan {
+            width: 1032px;
+            height: 86px;
+            margin: 80px 0;
+
+            span {
+                margin: 0px !important;
+
+                font-family: Circular, "PingFang-SC", "Hiragino Sans GB", "微软雅黑", "Microsoft YaHei", "Heiti SC" !important;
+                font-size: 16px;
+                font-weight: 400;
+
+                color: #484848;
+
+
+            }
+
+            p {
+                margin-top: 30px;
+                font-family: Circular, "PingFang-SC", "Hiragino Sans GB", "微软雅黑", "Microsoft YaHei", "Heiti SC" !important;
+                font-size: 16px;
+                font-weight: 400;
+                color: #484848;
+                margin-bottom: 80px;
+            }
+
+            hr {
+
+                border-top: 1px solid #dce0e0;
+            }
+        }
+
+        .sheji {
+            width: 1032px;
+            height: 852px;
+            margin: 160px 0;
+
+            .kexue {
+                font-size: 44px;
+                line-height: 52px;
+                margin-bottom: 32px;
+                font-weight: 600;
+                font-family: Circular, "PingFang-SC", "Hiragino Sans GB", "微软雅黑", "Microsoft YaHei", "Heiti SC" !important;
+                color: #484848;
+                padding-top: 8px;
+                padding-bottom: 8px;
+            }
+
+            .dangchu {
+                font-size: 16px;
+            }
+
+            .tpnr {
+                margin: 80px 0 0;
+                width: 333px;
+                height: 341px;
+                float: left;
+
+                img {
+                    width: 125px !important;
+                    height: 125px
+                }
+
+                .pingfen {
+                    width: 275px;
+                    height: 216px;
+
+                    .fxpf {
+                        padding-top: 50px;
+                        font-size: 24px;
+                        font-weight: 800;
+                        padding-bottom: 30px;
+                    }
+
+                    .neirong {
+                        font-size: 16px;
+                        font-weight: 400;
+                    }
+                }
+            }
+
+
+
+
+        }
+
+        .hra {
+            width: 1032px;
+
+
+            hr {
+                border: 1px solid #dce0e0;
+            }
+        }
+
+        .ljfy {
+            width: 1032px;
+            height: 960px;
+
+            .ljfy-a {
+                width: 1032px;
+                height: 68px;
+                padding-top: 94px;
+                padding-bottom: 30px;
+
+                h1 {
+                    font-size: 44px;
+                }
+            }
+
+            .ljfy-b {
+                width: 508px;
+                height: 44px;
+                font-size: 16px;
+                margin-bottom: 85px;
+            }
+
+            ._lvfrsp6 {
+
+                ._1n9d9y3 {
+                    background-image: url(https://z1.muscache.cn/airbnb/static/trust/iPhone_front-9146c44….png);
+                    background-size: 336px 694px;
+                    background-position: center;
+                    background-repeat: no-repeat;
+
+                    .xxx {
+                        position: relative;
+
+                        .xx-aa {
+                            img {
+                                position: absolute;
+                                top: 542px;
+                                left: 555px;
+                            }
+                        }
+
+
+                    }
+
+
+                }
+            }
+        }
+
+        .xuqiu {
+            width: 1032px;
+            height: 464px;
+
+            .xuqiu-a {
+                float: left;
+                width: 516px;
+                height: 300px;
+
+                .xuqiu-aa {
+                    padding-top: 150px;
+                    font-weight: 800;
+                    width: 516px;
+                    height: 68px;
+                    font-size: 44px;
+                    padding-bottom: 30px;
+                }
+
+                .xuqiu-ab {
+                    width: 516px;
+                    height: 66px;
+
+                    a {
+                        color: #008489;
+                    }
+                }
+
+                .xuqiu-ac {
+                    height: 22px;
+
+                    a {
+                        color: #008489;
+                    }
+                }
+            }
+
+            .xuqiu-ad {
+                float: left;
+                width: 300px;
+                height: 300px;
+                padding-left: 115px;
+                padding-top: 80px;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+
+        .zhongxin {
+            width: 1032px;
+            height: 706px;
+            margin-bottom: 70px;
+
+            .zhongxin-a {
+                height: 68px;
+                font-size: 44px;
+                font-weight: 600;
+                padding: 83px 0;
+            }
+
+            .zhongxin-b {
+                height: 506px;
+                width: 1032px;
+
+                .zhongxin-ca {
+                    width: 326px;
+                    height: 237px;
+                    border: 1px solid #cdcdcd;
+                    box-shadow: 2px 1px 10px -4px;
+                    float: left;
+                    margin-right: 16px;
+
+                }
+
+                .zhongxin-cbb {
+                    width: 258px;
+                    height: 237px;
+                    padding: 0 8px;
+                    float: left;
+                    padding-left: 34px;
+
+                    .zhongxin-cb {
+
+                        width: 258px;
+                        height: 60px;
+                        font-size: 24px;
+
+                        margin: 80px 0;
+                        font-weight: bold;
+                        text-align: center;
+                    }
+
+                }
+
+
+                .zhongxin-cc {
+                    float: left;
+                    width: 14px;
+                    height: 14px;
+                    margin-top: 198px;
+                }
+            }
+        }
+
+        .zhongxin-ca:hover {
+            background-color: #008489;
+            color: #ffffff;
+        }
+
+        .gd {
+            width: 1032px;
+            height: 22px;
+            padding-bottom: 80px;
+            font-size: 16px;
+
+            a {
+                color: #008489;
+            }
+        }
+    }
+}
+
+
+
+.Checklist-all-no dt {
+    margin-top: 51px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 19px;
+}
+
+.Checklist-all-no {
+
+    width: 263px;
+    height: 165px;
+    float: left;
+}
+
+.Checklist-all-no:nth-child(4) {
+    width: 239px;
+    height: 165px;
+    float: left;
+}
+
+.Checklist-all-no:nth-child(4) dl {
+    margin-top: 60px;
+}
+
+.Checklist-all-no:nth-child(4) dl span {
+    font-size: 21px;
+    color: gray;
+    text-decoration: none;
+}
+
+
+.Checklist-all-no dd a:hover {
+    text-decoration: underline;
+}
+
+.Checklist-all-no dd a {
+    color: #767676;
+    font-weight: bold;
+}
+
+.Checklist-all-no dd {
+    margin: 7px 0;
+}
+
+.Checklist-all-no-allbox {
+    margin-left: 423px;
+    position: relative;
+    border-bottom: 1px solid #ebebeb;
+    width: 1033px;
+    height: 234px;
+    border-top: 1px solid #ebebeb;
+}
+
+._dphve5f {
+    display: inline-block;
+    background-color: rgb(0, 106, 112);
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    border-image: initial;
+    border-radius: 4px;
+    padding: 0px 4px;
+    margin-left: 7px;
+}
+
+._6ey1uvk {
+    overflow-wrap: break-word;
+    font-family: Circular, PingFang-SC, "Hiragino Sans GB", 微软雅黑, "Microsoft YaHei", "Heiti SC" !important;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.33333em;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+.last-part {
+    height: 108px;
+    margin-left: 423px;
+}
+
+.last-part-one svg {
+    float: left;
+    margin-right: 10px;
+    margin-top: 12px;
+}
+
+.last-part-one {
+    line-height: 21px;
+    margin-top: 15px;
+    width: 760px;
+}
+
+.last-part-one a {
+    color: #767676;
+    font-weight: 600;
+}
+
+
+.last-part-one a:hover {
+    text-decoration: underline;
+}
+
+.last-part-one p {
+    color: #767676;
+    font-weight: 500;
+}
+
+
+
+.jianbian {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.jian-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%)
+}
