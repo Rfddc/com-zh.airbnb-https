@@ -510,49 +510,49 @@ main .shenti .gd a {
   color: #008489;
 }
 
-.Checklist-all-no dt {
+.checklist-all-no dt {
   margin-top: 51px;
   font-size: 14px;
   font-weight: 600;
   margin-bottom: 19px;
 }
 
-.Checklist-all-no {
+.checklist-all-no {
   width: 263px;
   height: 165px;
   float: left;
 }
 
-.Checklist-all-no:nth-child(4) {
+.checklist-all-no:nth-child(4) {
   width: 239px;
   height: 165px;
   float: left;
 }
 
-.Checklist-all-no:nth-child(4) dl {
+.checklist-all-no:nth-child(4) dl {
   margin-top: 60px;
 }
 
-.Checklist-all-no:nth-child(4) dl span {
+.checklist-all-no:nth-child(4) dl span {
   font-size: 21px;
   color: gray;
   text-decoration: none;
 }
 
-.Checklist-all-no dd a:hover {
+.checklist-all-no dd a:hover {
   text-decoration: underline;
 }
 
-.Checklist-all-no dd a {
+.checklist-all-no dd a {
   color: #767676;
   font-weight: bold;
 }
 
-.Checklist-all-no dd {
+.checklist-all-no dd {
   margin: 7px 0;
 }
 
-.Checklist-all-no-allbox {
+.checklist-all-no-allbox {
   margin-left: 423px;
   position: relative;
   border-bottom: 1px solid #ebebeb;
@@ -628,4 +628,4 @@ main .shenti .gd a {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), to(#000000));
   background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
 }
-/*# sourceMappingURL=index4.css.map */
+/*# sourceMappingURL=center.css.map */
