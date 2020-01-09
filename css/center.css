@@ -194,6 +194,7 @@ a {
 main {
   width: 1575px;
   height: 3960px;
+  margin-left: 80px;
 }
 
 main .shenti {
@@ -553,7 +554,7 @@ main .shenti .gd a {
 }
 
 .checklist-all-no-allbox {
-  margin-left: 423px;
+  margin-left: 498px;
   position: relative;
   border-bottom: 1px solid #ebebeb;
   width: 1033px;
