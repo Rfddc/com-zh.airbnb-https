@@ -204,10 +204,9 @@ a {
     width: 1915px;
     height: 565px;
     background-image: url("/image/mv.jpg");
- 
     background-repeat: no-repeat;
     background-size: cover;
-
+    background-image: url("../image/mv.jpg");
 }
 
 .beijing-a {
@@ -458,7 +457,7 @@ main {
 .more-men {
     width: 1915px;
     height: 500px;
-    background-image: url("/image/moremen.jpg");
+    background-image: url("../image/moremen.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -527,7 +526,7 @@ main {
 .wan-aaaa {
     width: 1900px;
     height: 500px;
-    background-image: url("/image/wan1.png");
+    background-image: url("../image/wan1.png");
     background-repeat: no-repeat;
     background-size: cover;
 
