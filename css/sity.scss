@@ -421,7 +421,7 @@ main {
 
         .guis {
             margin-top: 54px;
-            width: 1056px;
+            width: 1056px;                      
             height: 471px;
 
             .guis-aa {
@@ -609,13 +609,14 @@ main {
     text-decoration: underline;
 }
 
-.checklist-all-no dd a {
-    color: #767676;
-    font-weight: bold;
-}
+
 
 .checklist-all-no dd {
     margin: 7px 0;
+    a {
+        color: #767676;
+        font-weight: bold;
+    }
 }
 
 .checklist-all-no-allbox {
@@ -664,6 +665,10 @@ main {
     line-height: 21px;
     margin-top: 15px;
     width: 760px;
+    p {
+        color: #767676;
+        font-weight: 500;
+    }
 }
 
 .last-part-one a {
@@ -676,10 +681,7 @@ main {
     text-decoration: underline;
 }
 
-.last-part-one p {
-    color: #767676;
-    font-weight: 500;
-}
+
 
 
 

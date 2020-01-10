@@ -33,6 +33,24 @@ a {
 	margin-left: 13px;
 	border-radius: 6px;
 	box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px;
+
+	button {
+		float: left;
+		width: 61px;
+		height: 48px;
+		background-color: #ffffff;
+		border: none;
+		border-radius: 6px 0 0 6px;
+
+	}
+
+	input {
+		float: left;
+		height: 48px;
+		width: 397px;
+		border: none;
+		border-radius: 0 6px 6px 0px;
+	}
 }
 
 .airbnb-logo-shoushuokuang:hover {
@@ -40,39 +58,26 @@ a {
 	transition: all 1s;
 }
 
-.airbnb-logo-shoushuokuang button {
-	float: left;
-	width: 61px;
-	height: 48px;
-	background-color: #ffffff;
-	border: none;
-	border-radius: 6px 0 0 6px;
 
-}
 
-.airbnb-logo-shoushuokuang input {
-	float: left;
-	height: 48px;
-	width: 397px;
-	border: none;
-	border-radius: 0 6px 6px 0px;
-}
 
 .airbnb-title-search-right {
 	float: right;
 	width: 640px;
+
+	li {
+		float: left;
+	}
+
+	a {
+		font-size: 9px;
+
+		font-weight: 700;
+		margin-left: 2px;
+	}
 }
 
-.airbnb-title-search-right li {
-	float: left;
-}
 
-.airbnb-title-search-right a {
-	font-size: 9px;
-
-	font-weight: 700;
-	margin-left: 2px;
-}
 
 
 .title-jtzw {
@@ -392,7 +397,6 @@ main {
 			}
 
 			._lvfrsp6 {
-
 				._1n9d9y3 {
 					background-image: url(https://z1.muscache.cn/airbnb/static/trust/iPhone_front-9146c44….png);
 					background-size: 336px 694px;
@@ -412,8 +416,6 @@ main {
 
 
 					}
-
-
 				}
 			}
 		}
@@ -587,6 +589,10 @@ main {
 .checklist-all-no dd {
 	margin: 7px 0;
 }
+
+
+
+
 
 .checklist-all-no-allbox {
 	margin-left: 498px;
